@@ -1,0 +1,82 @@
+{
+	"Crypto": {
+		"name": {
+		  "type": "string"
+		},
+		"enabled": {
+		  "type": "boolean"
+		},
+		"postOnly": {
+		  "type": "boolean"
+		},
+		"priceIncrement": {
+		  "type": "number"
+		},
+		"sizeIncrement": {
+		  "type": "number"
+		},
+		"minProvideSize": {
+		  "type": "number"
+		},
+		"last": {
+		  "type": "number"
+		},
+		"bid": {
+		  "type": "number"
+		},
+		"ask": {
+		  "type": "number"
+		},
+		"price": {
+		  "type": "number"
+		},
+		"type": {
+		  "type": "string"
+		},
+		"futureType": {
+		  "type": "string"
+		},
+		"baseCurrency": {
+		  "type": "null"
+		},
+		"isEtfMarket": {
+		  "type": "boolean"
+		},
+		"quoteCurrency": {
+		  "type": "null"
+		},
+		"underlying": {
+		  "type": "string"
+		},
+		"restricted": {
+		  "type": "boolean"
+		},
+		"highLeverageFeeExempt": {
+		  "type": "boolean"
+		},
+		"largeOrderThreshold": {
+		  "type": "number"
+		},
+		"change1h": {
+		  "type": "number"
+		},
+		"change24h": {
+		  "type": "number"
+		},
+		"changeBod": {
+		  "type": "number"
+		},
+		"quoteVolume24h": {
+		  "type": "number"
+		},
+		"volumeUsd24h": {
+		  "type": "number"
+		},
+		"priceHigh24h": {
+		  "type": "number"
+		},
+		"priceLow24h": {
+		  "type": "number"
+		}		
+	}
+}
